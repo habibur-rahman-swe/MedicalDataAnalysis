@@ -1,1 +1,1 @@
-# MedicalDataAnalysis
+# MedicalImageAnalysis
